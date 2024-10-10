@@ -154,7 +154,7 @@
 
 .news-widget-block{
 	position:relative;
-	min-height:80px;
+	/* min-height:80px; */
 	padding-left:var(--padding-left-85);
 	margin-bottom:var(--margin-bottom-25);
 }
